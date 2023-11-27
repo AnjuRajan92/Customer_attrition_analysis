@@ -6,8 +6,7 @@ Topic:Customer Attrition Analysis
 
 Aim:
 
-     To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing 
-factors and recommend customized retention strategies.
+     To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing factors and recommend customized retention strategies.
 
 Objectives:
 
