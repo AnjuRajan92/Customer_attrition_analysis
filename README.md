@@ -4,9 +4,7 @@ This is an internship data science project done by Anju Rajan as part of the Ent
 
 Topic:Customer Attrition Analysis
 
-Aim:
-
-     To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing factors and recommend customized retention strategies.
+Aim:To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing factors and recommend customized retention strategies.
 
 Objectives:
 
