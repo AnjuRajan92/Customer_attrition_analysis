@@ -8,6 +8,7 @@ Aim:
 
      To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing 
 factors and recommend customized retention strategies.
+
 Objectives:
 
    1. Data Reading
