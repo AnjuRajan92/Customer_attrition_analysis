@@ -1,7 +1,9 @@
 # Customer Attrition Analysis
 
 This is an internship data science project done by Anju Rajan as part of the Entry Elevate program.
+
 Topic:Customer Attrition Analysis
+
 Aim:
 
      To predict the potential departure of customers from Verizonet telecommunications, analyze customer influencing 
